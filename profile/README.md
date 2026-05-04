@@ -107,17 +107,24 @@ Repos are private while Folio is in beta. If you are a member of the org the lin
 
 ## Team
 
-<p align="center">
-  <a href="https://github.com/ducxyz">
-    <img src="https://github.com/ducxyz.png" width="80" height="80" alt="@ducxyz"><br>
-    <sub><b>@ducxyz</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yaiba2307">
-    <img src="https://github.com/yaiba2307.png" width="80" height="80" alt="@yaiba2307"><br>
-    <sub><b>@yaiba2307</b></sub>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/ducxyz">
+        <img src="https://github.com/ducxyz.png" width="80" height="80" alt="@ducxyz" style="border-radius:50%"/>
+      </a>
+      <br/>
+      <a href="https://github.com/ducxyz"><sub><b>@ducxyz</b></sub></a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/yaiba2307">
+        <img src="https://github.com/yaiba2307.png" width="80" height="80" alt="@yaiba2307" style="border-radius:50%"/>
+      </a>
+      <br/>
+      <a href="https://github.com/yaiba2307"><sub><b>@yaiba2307</b></sub></a>
+    </td>
+  </tr>
+</table>
 
 ---
 

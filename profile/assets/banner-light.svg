@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-label="flowitup — Software for the people who build.">
+  <defs>
+    <pattern id="grid-l" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#EFE6D2" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="accent-l" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FB923C"/>
+      <stop offset="100%" stop-color="#EA580C"/>
+    </linearGradient>
+    <linearGradient id="bg-l" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FFFCF5"/>
+      <stop offset="100%" stop-color="#FFF6E6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" fill="url(#bg-l)"/>
+  <rect width="1280" height="360" fill="url(#grid-l)"/>
+  <rect x="0" y="0" width="1280" height="4" fill="url(#accent-l)"/>
+  <g transform="translate(80, 130)">
+    <text x="0" y="100" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="120" font-weight="800" letter-spacing="-6" fill="#0F0F0F">flowit<tspan fill="url(#accent-l)">up</tspan></text>
+    <text x="6" y="160" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="28" font-weight="500" letter-spacing="-0.4" fill="#525252">Software for the people who build.</text>
+  </g>
+  <g transform="translate(900, 90)">
+    <rect x="0"   y="120" width="280" height="22" rx="4" fill="#EA580C"/>
+    <rect x="40"  y="84"  width="240" height="22" rx="4" fill="#FB923C"/>
+    <rect x="80"  y="48"  width="200" height="22" rx="4" fill="#FDBA74"/>
+    <rect x="120" y="12"  width="160" height="22" rx="4" fill="#FED7AA"/>
+  </g>
+</svg>
